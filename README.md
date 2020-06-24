@@ -1,16 +1,16 @@
-# nlp ()
+### nlp ()
 
-i. 
-*
-*
-
-ii.
-*
-
-iii.
+##### i. 
 *
 *
 
-# [bert-qa project]() (Spring Quarter)
+##### ii.
+*
+
+##### iii.
+*
+*
+
+### [bert-qa project]() (Spring Quarter)
 *
 *
