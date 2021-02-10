@@ -1,9 +1,6 @@
-### [bert-qa](bert-qa) (Spring - Stats LM project)
-* 
-*
+#### [bert-qa](bert-qa) (Spring Project extended from below ones)
 
-### nlp (Winter - course project(s))
-
+### nlp
 ##### i. [wikidata](wikidata)
 * Recalibrated Bengio models and feed-forward neural nets to explore WikiData and Movie reviews for language modeling tasks. 
 * Deliverables also included models for statistical inference, BERT, Neural Translation, and Fakes Detection.
